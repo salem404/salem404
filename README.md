@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Web development student from Spain</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **MEVN stack and Spring Boot**
+- 🌱 I’m currently learning **Wordpress**
 - 👀 I’m interested in videogames and anime!
 
 ## 🌐 Socials:
