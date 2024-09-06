@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app?username=salem404&theme=onedark&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="100" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=salem404&theme=onedark&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="80px" alt="trophy graph"  />
 
 </div>
 
