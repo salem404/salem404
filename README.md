@@ -3,7 +3,13 @@ salem404/salem404 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋🏻, I'm salem404🧑🏻‍💻</h1>
-<h3 align="center">Web developer & videogame development student from Spain 🇪🇸 </h3>
+
+<div align="center">
+  <p> Web developer & designer <br>
+   Videogame development student </p>
+  <sub>  From Spain 🇪🇸 </sub>
+</div>
+
 
 ---
 
