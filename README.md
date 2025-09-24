@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
----
+
 
 # 💫 About Me
 
@@ -36,9 +36,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-trophy.vercel.app?username=salem404&theme=onedark&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="80px" alt="trophy graph"  />
 
 </div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=salem404&icon=3&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
