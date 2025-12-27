@@ -29,12 +29,4 @@ You can click the Preview link to take a look at your changes.
   - ![Blender Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=flat-square)
 - 👀 I’m interested in videogames and anime!
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app?username=salem404&theme=onedark&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="80px" alt="trophy graph"  />
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
